@@ -11,19 +11,16 @@ A personal portfolio website showcasing my skills, projects, and background.
 - HTML5
 - CSS3 (Grid, Flexbox, Variables)
 - JavaScript (ES6)
-- C
-- Python
-- PHP
 
 ## Deployment
 View live at: [Insert GitHub Pages/Netlify URL]
 
 ## Setup
-1. Clone the repo: `git clone [your-repo-url]`
+1. Clone the repo: `git clone https://github.com/MosesEsquire/Portfolio.git
 2. Open `index.html` in a browser.
 
 ## Contact
-Reach me via the form on the site or at [your-email@example.com].
+Reach me via the form on the site or at gathuomoses@gmail.com.
 
 ## Folder Structure
 personal_portfolio/
