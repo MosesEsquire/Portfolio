@@ -13,7 +13,7 @@ A personal portfolio website showcasing my skills, projects, and background.
 - JavaScript (ES6)
 
 ## Deployment
-View live at: [Insert GitHub Pages/Netlify URL]
+View live at: https://mosesesquire.github.io/Portfolio/
 
 ## Setup
 1. Clone the repo: `git clone https://github.com/MosesEsquire/Portfolio.git
